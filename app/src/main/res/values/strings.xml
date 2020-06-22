@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">防疫小天使</string>
+    <string name="content">早安，戴口罩了嗎？</string>
+    <string name="title_activity_nav">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
